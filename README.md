@@ -1,16 +1,16 @@
-## Hi there 👋
+Abir Albrahmi
 
-<!--
-**abir-albrahmi/abir-albrahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics & Computer Science student at the Faculté des Sciences de Tunis (FST).
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building a strong foundation in mathematics, algorithms, and computer science.
+- Interested in Artificial Intelligence, Machine Learning, and Data Engineering.
+- Exploring programming and computational problem-solving.
+- Working toward developing practical projects and deepening my technical knowledge.
+
+Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Data Engineering
+- Software Engineering
